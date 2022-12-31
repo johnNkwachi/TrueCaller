@@ -1,2 +1,5 @@
-package com.semicolon.truecaller;public class AccountServiceTest {
+package com.semicolon.truecaller;
+
+public class AccountServiceTest {
+
 }
